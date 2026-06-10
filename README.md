@@ -1,5 +1,14 @@
 
-# 🚀 Journal Scraper Tool
+<p align="center">
+  <img width="120" height="120" src="https://github.com/user-attachments/assets/455a8c84-dd1a-4490-b812-710f03b78026" alt="Journal Scraper Tool Logo">
+</p>
+
+<h1 align="center"> Journal Scraper Tool</h1>
+
+<p align="center">
+  <strong>An advanced, automation-driven Windows desktop application engineered to streamline academic literature review and journal analysis workflows.</strong>
+</p>
+
 A powerful Windows desktop application designed to automate academic journal research, transforming hours of manual searching into minutes. Built using advanced Python automation, custom UI layouts, and AI-assisted architectures.
 <img width="1366" height="708" alt="Screenshot 2026-06-10 152133" src="https://github.com/user-attachments/assets/43c4fa7b-432a-4691-b53b-e103782b69c8" />
 
