@@ -26,3 +26,8 @@ The engine natively maps directories across major global research publishers:
 1. Head over to the **Releases** tab on the right side of this page.
 2. Download the latest version of `Journal_Scraper.exe`.
 3. Double-click to run the installer tool on your Windows PC (No separate Python setup required!).
+watch video for Tutorial about How it works: 
+https://youtu.be/vSTmLWfDy5k?si=rXI3ugsLxJlRjKGr
+
+
+
